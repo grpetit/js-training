@@ -1,4 +1,4 @@
-script: node exercices/total.js
+script: node exercises/total.js
 language: node_js
 node_js:
   - "node"
