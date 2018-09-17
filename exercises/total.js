@@ -5,7 +5,7 @@
  * and return the total
  *
  */
-
+const total = (numbers)=> numbers.reduce((a,b)=>a+b)
 
 //* Begin of tests
 const assert = require('assert')
