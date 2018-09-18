@@ -11,6 +11,9 @@
 
 // Your code :
 const abs = (number) => Math.sign(number)*number
+
+
+
 //* Begin of tests
 const assert = require('assert')
 
