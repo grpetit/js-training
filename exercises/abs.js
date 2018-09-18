@@ -12,6 +12,8 @@
 // Your code :
 const abs = (number) => Math.sign(number)*number
 
+const abs = 2
+
 
 
 //* Begin of tests

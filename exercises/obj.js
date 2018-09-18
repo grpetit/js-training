@@ -1,13 +1,26 @@
 'use strict'
 
 /*
- * Create an object `obj` that has a property for each primitive values
+ * Create an object obj that has a property for each primitive values
  * much like in primitive.js
  *
  * @notions Functions, Operators
  */
 
 // Your code :
+
+const name = 'John'
+const monLabel = "num";
+const user = {
+    age,
+    name
+}
+obj[monLabel]=42
+obj["num"]=42
+
+obj.monLabel=42
+obj['monLabel']=42
+
 
 //* Begin of tests
 const assert = require('assert')
