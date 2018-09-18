@@ -1,4 +1,4 @@
-script: node exercises/add.js
+script: ./tester
 language: node_js
 node_js:
   - "node"
